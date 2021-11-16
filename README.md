@@ -5,6 +5,8 @@ A Bot that plays Youtube Videos in Discord
 Instalation Guide!
  - Download the source code!
  - extract the files
+ - Rename .env.example.txt to .env
+ - Put your token in .inv in the arguments "YOUR_BOT_TOKEN"
  - Open Node.js Command Prompt
  - Set the directory of the nodejs to the source directory `cd C:/Users/Me/Desktop/Directory/Here`
  - Type npm start
