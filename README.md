@@ -3,6 +3,7 @@ A Bot that plays Youtube Videos in Discord
 
 
 Instalation Guide!
+ - Download Node.js v12 or Up
  - Download the source code!
  - extract the files
  - Rename .env.example.txt to .env
